@@ -1,3 +1,4 @@
 {
-  "language": "scala"
+  "language": "scala",
+  "script": "scalac hello-world.scala"
 }
